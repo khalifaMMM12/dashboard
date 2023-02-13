@@ -1,0 +1,69 @@
+.todays-plan-panel{
+    background-color: white;
+    border-radius: none;
+    padding: 20px;
+    height: auto;
+}
+  
+.plus_icon{
+    float: right;
+}
+
+.image-schedule{
+    margin-left: auto;
+}
+
+.image-line{
+    border-left: 1px solid gray;
+    height: 70px;
+    margin-left: auto;
+}
+
+.img-1{
+    position: absolute;
+    z-index: 1;
+    left: 20px;
+}
+.img-2{
+    position: absolute;
+    z-index: 2;
+    left: 40px;
+    border: 8px solid red;
+    border-radius: 70px;
+}
+.img-3{
+    position: absolute;
+    z-index: 3;
+    left: 60px;
+}
+.img-4{
+    position: absolute;
+    z-index: 4;
+    left: 80px;
+}
+
+.weekly-report{
+    height: 250px;
+    width: 100%;
+    padding: 30px;
+}
+
+.report-btn{
+    border: 2px solid black;
+    margin-top: 80px;
+}
+
+.study{
+    margin: 15px;
+    height: 250px;
+    padding: 30px;
+    margin-right: 10px;
+}
+
+.analysis{
+    margin: 15px;
+    height: 250px;
+    width: 100%;
+    padding: 30px;
+    margin-left: 10px;
+}

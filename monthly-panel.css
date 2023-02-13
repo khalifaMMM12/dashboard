@@ -1,0 +1,34 @@
+.monthly-panel{
+ margin-top: 20px;
+
+}
+
+.monthly-head{
+  display: flex;
+  
+}
+
+.monthly-paragraph{
+  margin-left: 163px;
+}
+
+.next-gen{
+  border: 1px solid gray;
+  height: 130px;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+.harmony{
+  border: 1px solid gray;
+  height: 145px;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+.pharmaceutical{
+  border: 1px solid gray;
+  height: 130px;
+  padding: 20px;
+  margin-bottom: 15px;
+}

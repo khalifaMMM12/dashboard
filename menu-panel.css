@@ -1,0 +1,23 @@
+.logo{
+  text-align: center;
+  margin-top: 20px;
+}
+  
+.menu-panel {
+    height: 100vh;
+    color: black
+  }
+  
+  .menu-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu-list-item {
+    padding: 20px;
+  }
+  
+  .menu-list-item a {
+    color: black;
+    text-decoration: none;
+  }
